@@ -241,7 +241,7 @@ section #Fonts, p {
 
 #SourceCodePro {
     font-family: 'Source Code Pro';
-    word-spacing: 4px;
+    word-spacing: -5px;
 }
 
 #SourceCodePro p {
@@ -263,10 +263,7 @@ section #Fonts, p {
 #NunitoSans {
     font-family: 'Nunito Sans';
     margin-left: 510px;
-}
-
-#NSTitle {
-    margin-top: -141px;
+    margin-top: 25px;
 }
 
 #NunitoSans p{
@@ -276,10 +273,7 @@ section #Fonts, p {
 #FPoppins {
     font-family: Poppins;
     margin-left: 1010px;
-}
-
-#Poppinstitle {
-    margin-top: -140.5px;
+    margin-top: 25px;
 }
 
 #FPoppins p {
@@ -293,6 +287,7 @@ section #Fonts, p {
 
 #AbrilFatface p {
     line-height: 16px;
+    word-spacing: 2 px;
 }
 
 #FArvo {
